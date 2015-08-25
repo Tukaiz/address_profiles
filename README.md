@@ -1,4 +1,4 @@
-# Budgets
+# Address Profiles
 
 TODO: Write a gem description
 
