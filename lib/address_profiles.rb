@@ -22,7 +22,7 @@ module AddressProfiles
     module Permissions
 
       def can_manage_address_profiles
-        can :manage, Profile, profileable_type: "Address"
+        can :manage, FormResponse, responsable_type: "Address"
       end
 
     end
